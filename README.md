@@ -26,6 +26,6 @@
   <a href = "mailto:wesleyapelao06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://www.linkedin.com/in/wesley-alves-dos-santos-4b3834214/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wesley44354/wesley44354/blob/output/github-contribution-grid-snake.svg)
  
 </div>
