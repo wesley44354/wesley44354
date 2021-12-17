@@ -1,8 +1,8 @@
 ### Olá! eu sou o Wesley Alves
 
 
-- 🔭 Hoje trabalho com Games e front-end
-- 🌱 Estudando C# e JavaScripts
+- 🔭 Today I work with Games and front-end
+- 🌱 Studying C# with OOP
  
 <div align="center">
   <a href="https://github.com/wesley44354">
