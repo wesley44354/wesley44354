@@ -2,7 +2,7 @@
 
 
 - 🔭 Today I work with Games and front-end
-- 🌱 Studying C# with OOP
+- 🌱 Studying C# and .Net
  
 <div align="center">
   <a href="https://github.com/wesley44354">
