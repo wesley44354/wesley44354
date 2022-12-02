@@ -1,8 +1,8 @@
-### Olá! eu sou o Wesley Alves
+### Hello! Am i Wesley Alves
 
 
-- 🔭 Today I work with Games and front-end
-- 🌱 Studying C# and .Net
+- 🔭 Today I work with Games and Mobile developer
+- 🌱 Studying to be a full stack developer
  
 <div align="center">
   <a href="https://github.com/wesley44354">
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/l2QDRkQtiuugmBHQ4/giphy.gif?cid=ecf05e47ba2qlq78pr3twrztbpm2g0wq76lfg7ufenhv9kpr&rid=giphy.gif&ct=g">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png">
 </div>
   
   ##
