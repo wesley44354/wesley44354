@@ -3,6 +3,8 @@
 
 - 🔭 Today I work with Games and Mobile developer
 - 🌱 Studying to be a full stack developer
+
+     ##
     <div style="background-image: linear-gradient(to bottom, black, rgba(130,87,229,.8)); border-radius: 1rem; padding: 1rem; border: 4px solid rgba(130,87,229,.8);">
         <div align="center">
             <a href="https://github.com/wesley44354">
@@ -27,8 +29,8 @@
         <a href = "mailto:wesleyalvesdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
         <a href="https://www.linkedin.com/in/wesley-alves-4b3834214/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
        
-        ![Snake animation](https://github.com/wesley44354/wesley44354/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wesley44354/wesley44354/blob/output/github-contribution-grid-snake.svg)
        
-      </div>
+  </div>
  
 </div>
