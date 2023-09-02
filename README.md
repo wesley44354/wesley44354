@@ -1,13 +1,8 @@
 <div align="center">
+  <p style="color: blue; font-size: 24px;">Hello World! Am i Wesley Alves</p>
+  <p>🔭 Today I work with Games and Mobile developer with freelancer</p>
+</div>
 
- Hello World! Am i Wesley Alves 
-
-
-🔭 Today I work with Games and Mobile developer with freelancer
-
-##
-
-  </div>
 
 
      
