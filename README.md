@@ -1,8 +1,12 @@
+<div align="center">
+
 ### Hello! Am i Wesley Alves
 
 
 - 🔭 Today I work with Games and Mobile developer
 - 🌱 Studying to be a full stack developer
+
+  </div>
 
      ##
     <div style="background-image: linear-gradient(to bottom, black, rgba(130,87,229,.8)); border-radius: 1rem; padding: 1rem; border: 4px solid rgba(130,87,229,.8);">
