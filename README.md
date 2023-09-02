@@ -1,10 +1,10 @@
 <div align="center">
 
-#### Hello! Am i Wesley Alves
+##<font color="red">Hello World! Am i Wesley Alves</font>
 
 
-- 🔭 Today I work with Games and Mobile developer
-- 🌱 Studying to be a full stack developer
+
+- 🔭 Today I work with Games and Mobile developer with freelancer
 
   </div>
 
