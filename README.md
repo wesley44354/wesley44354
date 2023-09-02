@@ -11,8 +11,13 @@
             <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley44354&layout=compact&langs_count=7&theme=dark"/>
         </div>
         <div style="display: inline_block; padding: 1rem; display: flex; justify-content: center;"><br>
-            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-            <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<a href="https://api.whatsapp.com/send?phone=SEUNUMERODOTELEFONE" target="_blank" rel="external">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+</a>
+<a href="https://wesleyalvesprofile.vercel.app/" target="_blank" rel="external" style="background-color: rgba(130,87,229,.8);">
+  <img src="SEULINKDOGITHUB" target="_blank"> <!-- Substitua SEULINKDOGITHUB pelo link da sua página do GitHub -->
+</a>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
             <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
             <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png">
             <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius: 50;" src="https://media0.giphy.com/media/l2QDRkQtiuugmBHQ4/giphy.gif?cid=ecf05e47ba2qlq78pr3twrztbpm2g0wq76lfg7ufenhv9kpr&rid=giphy.gif&ct=g"> -->
