@@ -5,10 +5,13 @@
 
 🔭 Today I work with Games and Mobile developer with freelancer
 
+     ##
+
   </div>
 
-     ##
-    <div style="background-image: linear-gradient(to bottom, black, rgba(130,87,229,.8)); border-radius: 1rem; padding: 1rem; border: 4px solid rgba(130,87,229,.8);">
+
+     
+  <div style="background-image: linear-gradient(to bottom, black, rgba(130,87,229,.8)); border-radius: 1rem; padding: 1rem; border: 4px solid rgba(130,87,229,.8);">
         <div align="center">
             <a href="https://github.com/wesley44354">
             <img height="190em" src="https://github-readme-stats.vercel.app/api?username=wesley44354&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
