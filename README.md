@@ -1,6 +1,6 @@
 <div align="center">
 
-#<font color="red">Hello World! Am i Wesley Alves</font>
+#Hello World! Am i Wesley Alves
 
 
 🔭 Today I work with Games and Mobile developer with freelancer
