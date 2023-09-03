@@ -1,6 +1,6 @@
 <div align="center">
-  <p style="color: blue; font-size: 50px;">Hello World! Am i Wesley Alves</p>
-  <p>🔭 Today I work with Games and Mobile developer with freelancer</p>
+  <p style="color: blue; font-size: 50px;">Hello World! Am i Wesley Alves.</p>
+  <p>🔭 Today I work with Games and Mobile developer as freelancer.</p>
 </div>
 
 
