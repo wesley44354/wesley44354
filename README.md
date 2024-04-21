@@ -28,11 +28,6 @@
 }</code></pre>
 
 
-<iframe src="https://giphy.com/embed/3oKIPi0sqqBWi5IR68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://giphy.com/gifs/love-art-happy-3oKIPi0sqqBWi5IR68" />
-
- 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 </div>
