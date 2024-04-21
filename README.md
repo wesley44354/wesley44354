@@ -20,10 +20,6 @@
 
 
 
-<p align="center">
-   <a href="https://wesleyalvesprofile.vercel.app/"><img alt="My Profile" src="[https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi](https://wesleyalvesprofile.vercel.app/)"></a>
-  
- </p>
  
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
