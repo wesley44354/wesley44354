@@ -15,7 +15,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Welsey Alves | 💻 Full Stack Developer | 🛸 Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-<div align="center">
+<div align="left">
 <h3> 💬 I prefer this ⤵️</h3>
 <pre><code>while(true) 
 { 
