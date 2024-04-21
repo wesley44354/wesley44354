@@ -37,10 +37,10 @@
 <p align="center">
   <h3> 💬 I prefer this ⤵️</h3>
 
-  while(true)
-  {
-    
-  }
+while (true)
+{
+
+}
 
 
   <h3> than that ⤵️</h3>
