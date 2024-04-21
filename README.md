@@ -26,19 +26,19 @@
   <h3> 💬 I prefer this ⤵️</h3>
 
    <h3> 💬 I prefer this ⤵️</h3>
-   <code>
-   while(true) 
+  
+   <code> while(true) 
    { 
       
-   }
-   </code>
+   }   </code>
+
 
    <h3> than that ⤵️</h3>
-   <code>
-   while(true){
+
+   <code> while(true){
       
-   }
-   </code>
+   }   </code>
+
   
 </p>
 
