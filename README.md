@@ -25,16 +25,11 @@
 <p align="center">
   <h3> 💬 I prefer this ⤵️</h3>
 
-while (true)
-{
+   <h3> 💬 I prefer this ⤵️</h3>
+   <code>while (true) { }</code>
 
-}
-
-
-  <h3> than that ⤵️</h3>
-  while(true){
-  
-  }
+   <h3> than that ⤵️</h3>
+   <code>while(true) { }</code>
   
 </p>
 
