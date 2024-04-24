@@ -1,15 +1,12 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Wesley</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
 
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/wesleyalvesdeveloper/"><img height="30" src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send?phone=67998887913"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/wesleyalvesdeveloper/"><img height="30" src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://api.whatsapp.com/send?phone=67998887913"><img height="30" src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/png/whatsapp.png?raw=true"></a>&nbsp;&nbsp;
  </p>
-
-
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Welsey Alves | 💻 Full Stack Developer | 🛸 Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -27,22 +24,20 @@
       
 }</code></pre>
 
-
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 </div>
 
- - 🥀 Learning Php & Dart 
- 
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
+- 🥀 Learning Php & Dart
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do fullstack and a bit of everything :heart:
- 
- - All About living life at its best.
+- <i>with Javascript, Typescript, React and 69 others.</i>
+- 🔭 SpaceX FanBoi, die for space😼
+
+- 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+
+- I do fullstack and a bit of everything :heart:
+
+- All About living life at its best.
 
  <p align="center">
   <h4> Full Stack </h4>
@@ -70,12 +65,7 @@
   <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-
-
-
-
- ### - What i do
-
+### - What i do
 
 <br />
 
@@ -95,4 +85,3 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
