@@ -37,7 +37,10 @@
 
 </div>
 
-<div align="center" style="gap: 10px" id="centerContent">
+<div align="center" style="        display: flex;
+        margin-bottom: 8em;
+        flex-direction: column;
+        align-items: center;" >
     <img align="right" height="180px" width="300px" style="border-radius: 20px;" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
     <ul style=" height: 180px; list-style-type: none; padding: 1em; 
     padding-top: 2.5em; text-align: left;">
