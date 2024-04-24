@@ -27,10 +27,14 @@
 }</code></pre>
 
 </div>
+<br />
+<br />
 
 <div align="center" >
-    <img align="right" height="180px" width="300px" style="border-radius: 20;" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-    <ul >
+    <img align="center" height="180px" width="300px" style="border-radius: 20;" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+   <br />
+   <br />
+    <ul align="left">
         <li>🥀 Learning Php & Dart</li>
         <li><i>with Javascript, Typescript, React and 69 others.</i></li>
         <li>🔭 SpaceX FanBoi, die for space😼</li>
@@ -39,6 +43,8 @@
         <li>All About living life at its best.</li>
     </ul>
 </div>
+<br />
+<br />
 
 <!--  -->
 
@@ -55,13 +61,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/nodejs.png" alt="nodejs" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
-<img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/engine/unity.png" alt="csharp" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
-  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/csharp.svg" alt="csharp" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
-  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/js.svg" alt="js" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
-  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/frameworks/react.svg" alt="react" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
-  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/npm.svg" alt="npm" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
-  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/php.png" alt="vscode" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/nodejs.png" alt="nodejs" style="vertical-align: top; margin: 4px;">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/engine/unity.png" alt="csharp" style="vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/csharp.svg" alt="csharp" style="vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/js.svg" alt="js" style="vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/frameworks/react.svg" alt="react" style="vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/npm.svg" alt="npm" style="vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/php.png" alt="vscode" style="vertical-align: top; margin: 4px;">
 </div>
 
 ### - What i do
