@@ -1,3 +1,14 @@
+<style>
+   @media screen and (max-width: 1000px) {
+    #centerContent {
+        display: flex;
+        margin-bottom: 8em;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+</style>
+
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Wesley</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
@@ -26,21 +37,17 @@
 
 </div>
 
-<div align="center" style="gap: 100px">
-
-<img align="right" height="100em" width="40%" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-
-- 🥀 Learning Php & Dart
-
-- <i>with Javascript, Typescript, React and 69 others.</i>
-- 🔭 SpaceX FanBoi, die for space😼
-
-- 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
-
-- I do fullstack and a bit of everything :heart:
-
-- All About living life at its best.
-
+<div align="center" style="gap: 10px" id="centerContent">
+    <img align="right" height="180px" width="300px" style="border-radius: 20px;" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+    <ul style=" height: 180px; list-style-type: none; padding: 1em; 
+    padding-top: 2.5em; text-align: left;">
+        <li>🥀 Learning Php & Dart</li>
+        <li><i>with Javascript, Typescript, React and 69 others.</i></li>
+        <li>🔭 SpaceX FanBoi, die for space😼</li>
+        <li>🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.</li>
+        <li>I do fullstack and a bit of everything :heart:</li>
+        <li>All About living life at its best.</li>
+    </ul>
 </div>
 
 <!--  -->
@@ -56,16 +63,16 @@
 
 ### - Languages and Tools...
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/
-  images/dev/services/nodejs.png" alt="html" style="vertical-align:top; margin:4px"> 
-   <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/engine/unity.png" alt="csharp" style="vertical-align:top; margin:4px">   
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/php.png" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/nodejs.png" alt="nodejs" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
+<img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/engine/unity.png" alt="csharp" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/csharp.svg" alt="csharp" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/js.svg" alt="js" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/frameworks/react.svg" alt="react" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/npm.svg" alt="npm" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/php.png" alt="vscode" style="width: 5em; height: 1.6em; vertical-align: top; margin: 4px;">
+</div>
 
 ### - What i do
 
