@@ -4,8 +4,8 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/wesleyalvesdeveloper/"><img height="30" src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send?phone=67998887913"><img height="30" src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/png/whatsapp.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/wesleyalvesdeveloper/"><img height="30" src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/social/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://api.whatsapp.com/send?phone=67998887913"><img height="30" src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/social/whatsapp.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
@@ -24,9 +24,11 @@
       
 }</code></pre>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-
 </div>
+
+<div align="center" style="gap: 100px">
+
+<img align="right" height="100em" width="40%" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 - 🥀 Learning Php & Dart
 
@@ -39,9 +41,7 @@
 
 - All About living life at its best.
 
- <p align="center">
-  <h4> Full Stack </h4>
-   </p>
+</div>
 
 <!--  -->
 
@@ -57,12 +57,14 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/
+  images/dev/services/nodejs.png" alt="html" style="vertical-align:top; margin:4px"> 
+   <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/engine/unity.png" alt="csharp" style="vertical-align:top; margin:4px">   
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/php.png" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 ### - What i do
