@@ -1,5 +1,3 @@
-
-
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Wesley</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
@@ -61,13 +59,13 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/nodejs.png" alt="nodejs" style="vertical-align: top; margin: 4px;">
-  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/engine/unity.png" alt="csharp" style="vertical-align: top; margin: 4px;">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/nodejs.svg" alt="nodejs" style="vertical-align: top; margin: 4px;">
+  <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/engine/unity.svg" alt="csharp" style="vertical-align: top; margin: 4px;">
   <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/csharp.svg" alt="csharp" style="vertical-align: top; margin: 4px;">
   <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/js.svg" alt="js" style="vertical-align: top; margin: 4px;">
   <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/frameworks/react.svg" alt="react" style="vertical-align: top; margin: 4px;">
   <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/npm.svg" alt="npm" style="vertical-align: top; margin: 4px;">
-  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/php.png" alt="vscode" style="vertical-align: top; margin: 4px;">
+  <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/php.svg" alt="vscode" style="vertical-align: top; margin: 4px;">
 </div>
 
 ### - What i do
