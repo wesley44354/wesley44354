@@ -1,13 +1,4 @@
-<style>
-   @media screen and (max-width: 1000px) {
-    #centerContent {
-        display: flex;
-        margin-bottom: 8em;
-        flex-direction: column;
-        align-items: center;
-    }
-}
-</style>
+
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Wesley</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
@@ -37,13 +28,9 @@
 
 </div>
 
-<div align="center" style="        display: flex;
-        margin-bottom: 8em;
-        flex-direction: column;
-        align-items: center;" >
-    <img align="right" height="180px" width="300px" style="border-radius: 20px;" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-    <ul style=" height: 180px; list-style-type: none; padding: 1em; 
-    padding-top: 2.5em; text-align: left;">
+<div align="center" >
+    <img align="right" height="180px" width="300px" style="border-radius: 20;" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+    <ul >
         <li>🥀 Learning Php & Dart</li>
         <li><i>with Javascript, Typescript, React and 69 others.</i></li>
         <li>🔭 SpaceX FanBoi, die for space😼</li>
