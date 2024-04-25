@@ -60,6 +60,7 @@
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/services/nodejs.svg" alt="nodejs" style="vertical-align: top; margin: 4px;">
+   <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/frameworks/next.svg" alt="nodejs" style="vertical-align: top; margin: 4px;">
   <img src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/engine/unity.svg" alt="csharp" style="vertical-align: top; margin: 4px;">
   <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/csharp.svg" alt="csharp" style="vertical-align: top; margin: 4px;">
   <img  src="https://raw.githubusercontent.com/wesley44354/wesley44354/master/images/dev/languages/js.svg" alt="js" style="vertical-align: top; margin: 4px;">
