@@ -47,14 +47,13 @@
 <!--  -->
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=wesley44354&&show_icons=true&theme=radical"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley44354&theme=tokyonight&show_icons=true&hide_border=false&layout=donut"/>
-</a>
-
+<!--    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img  src="https://github-readme-stats.vercel.app/api?username=wesley44354&&show_icons=true&theme=radical"/>
+   </a> -->
+   
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley44354&theme=radical&show_icons=true&hide_border=false&layout=donut"/>
+   </a>
 </p>
 
 <br />
